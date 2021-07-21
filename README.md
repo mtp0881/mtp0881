@@ -1,7 +1,5 @@
 ### Hi there , Welcome to my Git profile👋
-
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/maitrongphu/)
-
 #### My Project 
 ##### Landing Page
 - :doughnut: [Mogo](https://mogo-landing-page.vercel.app)
