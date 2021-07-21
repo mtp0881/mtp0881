@@ -1,5 +1,5 @@
 ### Hi there , Welcome to my Git profile👋
-###　こんにちは！フロントエンドエンジニアの仕事を探しています。よろしくお願いします。
+### こんにちは！フロントエンドエンジニアの仕事を探しています。よろしくお願いします。
 
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/maitrongphu/)
 
