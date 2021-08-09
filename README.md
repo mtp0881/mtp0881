@@ -3,7 +3,7 @@
 #### My Project 
 ##### Landing Page
 - 🍩:  [Mogo](https://mogo-landing-page.vercel.app)
-- 🍨:  [Modest](https://mtp0881.github.io/modest-website/)
+- 🍨:  [Modest](https://mtp0881.github.io/modest-website-1/)
 - 🍧:  [Muncak](https://mtp0881.github.io/muncak-website/)
 - 🍊:  [Todolist](https://mtp0881-todo-list.surge.sh/)
 - 🍑:  [FreeUI](https://mtp0881.github.io/free-ui/)
