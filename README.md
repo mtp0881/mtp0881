@@ -1,4 +1,3 @@
-### Hi there , Welcome to my Git profile👋
 #### My Project : Landing Pages
 - 🍩:  [Mogo](https://mogo-landing-page.vercel.app)
 - 🍨:  [Modest](https://mtp0881.github.io/modest-website-1/)
