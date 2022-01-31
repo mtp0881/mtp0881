@@ -1,6 +1,7 @@
 ### My Project
 #### Web Application
 - 🍕:  [Jec Pizza](https://jecpizza20220130120227.azurewebsites.net)
+- 👷‍♂️: [Employee Manager](https://jecemployeemanager.000webhostapp.com/index.php)
 #### Landing Page
 - 🍩:  [Mogo](https://mogo-landing-page.vercel.app)
 - 🍨:  [Modest](https://mtp0881.github.io/modest-website-1/)
