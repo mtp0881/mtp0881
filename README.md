@@ -1,6 +1,6 @@
 ### Tutorial
-- Tra từ điển với [GoldenDict](https://github.com/mtp0881/goldendict_ja_en_vi)
-- Học từ vựng với [Anki](https://github.com/mtp0881/anki_ja_vi)
+- Tra từ điển với [GoldenDict](https://github.com/mtp0881/goldendict_ja_en_vi) (Nhật - Nhật / Nhật - Anh / Nhật - Việt)
+- Học từ vựng với [Anki](https://github.com/mtp0881/anki_ja_vi) (tiếng Nhật)
 ### My Project
 #### Web Application
 - [Jec Pizza](https://jecpizza20220130120227.azurewebsites.net)
